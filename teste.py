@@ -30,7 +30,8 @@
 #   print(i)
 
 
-lista1 = [9,4,7,2,5,8]
-print(lista1)
-lista1.sort()
-print(lista1)
+# lista1 = [9,4,7,2,5,8]
+# print(lista1)
+# lista1.sort()
+# print(lista1)
+
